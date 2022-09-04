@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "weechen"
-  avatar : "/assets/images/profile-pic.jpg"
+  avatar : "/assets/images/profile-pic.png"
   bio    : "Just a place to consolidate my discoveries"
   links:
     - label: "Website"
